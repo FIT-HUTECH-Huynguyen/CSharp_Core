@@ -1,0 +1,15 @@
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\QuanLySanPham.exe.config
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\QuanLySanPham.exe
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\QuanLySanPham.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.AssemblyReference.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.Properties.Resources.resources
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.exe
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\EntityFramework.dll
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\EntityFramework.SqlServer.dll
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\EntityFramework.xml
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\bin\Debug\EntityFramework.SqlServer.xml
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\QuanLySanPham\obj\Debug\QuanLySanPham.csproj.CopyComplete

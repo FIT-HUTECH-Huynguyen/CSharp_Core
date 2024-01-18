@@ -1,0 +1,16 @@
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\bin\Debug\net6.0-windows\Management_Student_AVG.exe
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\bin\Debug\net6.0-windows\Management_Student_AVG.deps.json
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\bin\Debug\net6.0-windows\Management_Student_AVG.runtimeconfig.json
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\bin\Debug\net6.0-windows\Management_Student_AVG.dll
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\bin\Debug\net6.0-windows\Management_Student_AVG.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.AssemblyInfoInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.AssemblyInfo.cs
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.dll
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\refint\Management_Student_AVG.dll
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\Management_Student_AVG.genruntimeconfig.cache
+P:\Dev\Source\C#\Exercise\OnClass\Management_Student_AVG\Management_Student_AVG\obj\Debug\net6.0-windows\ref\Management_Student_AVG.dll

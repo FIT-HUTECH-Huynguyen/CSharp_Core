@@ -1,0 +1,15 @@
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\bin\Debug\Day_3.exe.config
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\bin\Debug\Day_3.exe
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\bin\Debug\Day_3.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\bin\Debug\Interop.WMPLib.dll
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\bin\Debug\AxInterop.WMPLib.dll
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Interop.WMPLib.dll
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\AxInterop.WMPLib.dll
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Day_3.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Day_3.Properties.Resources.resources
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Day_3.exe
+P:\Dev\Source\C#\Exercise\OnClass\Day_3\Day_3\obj\Debug\Day_3.pdb

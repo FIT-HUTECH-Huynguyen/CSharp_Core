@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Lab03_02</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\bold.png" />
+    <None Remove="Images\diskette.png" />
+    <None Remove="Images\files %281%29.png" />
+    <None Remove="Images\folder.png" />
+    <None Remove="Images\italic-font.png" />
+    <None Remove="Images\underline.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\bold.png" />
+    <Resource Include="Images\diskette.png" />
+    <Resource Include="Images\files (1).png" />
+    <Resource Include="Images\folder.png" />
+    <Resource Include="Images\italic-font.png" />
+    <Resource Include="Images\underline.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

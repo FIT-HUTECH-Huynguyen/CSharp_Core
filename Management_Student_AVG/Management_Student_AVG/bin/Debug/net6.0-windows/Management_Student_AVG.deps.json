@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Management_Student_AVG/1.0.0": {
+        "runtime": {
+          "Management_Student_AVG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Management_Student_AVG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUQK0xGwvD3kuYyOKuyql9+G/lEvNavuuMAPvHOoiwTBsmpvbq8gOwEz+fmyz3GKSNE8ZaMyQRykc5jnpXdk4g==",
+  "success": true,
+  "projectFilePath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\c1.wpf.core\\6.0.20232.624\\c1.wpf.core.6.0.20232.624.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\listviewdragdropmanager\\1.2.0\\listviewdragdropmanager.1.2.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ListViewDragDropManager 1.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ListViewDragDropManager",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

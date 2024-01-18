@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Management_Student_AVG\\Management_Student_AVG\\Management_Student_AVG.csproj": {}
+  },
+  "projects": {
+    "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Management_Student_AVG\\Management_Student_AVG\\Management_Student_AVG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Management_Student_AVG\\Management_Student_AVG\\Management_Student_AVG.csproj",
+        "projectName": "Management_Student_AVG",
+        "projectPath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Management_Student_AVG\\Management_Student_AVG\\Management_Student_AVG.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Management_Student_AVG\\Management_Student_AVG\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

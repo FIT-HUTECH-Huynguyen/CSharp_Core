@@ -1,0 +1,14 @@
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\bin\Debug\net6.0\Exercise_3.exe
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\bin\Debug\net6.0\Exercise_3.deps.json
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\bin\Debug\net6.0\Exercise_3.runtimeconfig.json
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\bin\Debug\net6.0\Exercise_3.dll
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\bin\Debug\net6.0\Exercise_3.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.AssemblyInfoInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.AssemblyInfo.cs
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.dll
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\refint\Exercise_3.dll
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\Exercise_3.genruntimeconfig.cache
+P:\Dev\Source\C#\Exercise\OnClass\Game_Guess_Number\Exercise_3\obj\Debug\net6.0\ref\Exercise_3.dll

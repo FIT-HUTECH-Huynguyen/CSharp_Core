@@ -1,0 +1,17 @@
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\bin\Debug\net6.0-windows\Lab02-03.exe
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\bin\Debug\net6.0-windows\Lab02-03.deps.json
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\bin\Debug\net6.0-windows\Lab02-03.runtimeconfig.json
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\bin\Debug\net6.0-windows\Lab02-03.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\bin\Debug\net6.0-windows\Lab02-03.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02_03.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.AssemblyInfoInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.AssemblyInfo.cs
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\refint\Lab02-03.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02-03.genruntimeconfig.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\ref\Lab02-03.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-03\Lab02-03\obj\Debug\net6.0-windows\Lab02_03.Properties.Resources.resources

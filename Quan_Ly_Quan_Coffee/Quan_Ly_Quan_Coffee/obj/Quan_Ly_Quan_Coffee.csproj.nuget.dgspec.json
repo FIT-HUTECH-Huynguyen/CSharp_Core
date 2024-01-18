@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee.csproj": {}
+  },
+  "projects": {
+    "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee.csproj",
+        "projectName": "Quan_Ly_Quan_Coffee",
+        "projectPath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Quan_Ly_Quan_Coffee\\Quan_Ly_Quan_Coffee\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.1586.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

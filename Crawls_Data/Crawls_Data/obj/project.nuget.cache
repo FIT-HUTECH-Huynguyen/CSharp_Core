@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRICoK2bAO2ZsFDXn8+Pr9vS2qhI8sIzfbuYqC9kFdpGR5bc+oU/l0BDX39GTK8kB067lyvPZ/w7Y6BQMre1sg==",
+  "success": true,
+  "projectFilePath": "P:\\Dev\\Source\\C#\\Exercise\\OnClass\\Crawls_Data\\Crawls_Data\\Crawls_Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

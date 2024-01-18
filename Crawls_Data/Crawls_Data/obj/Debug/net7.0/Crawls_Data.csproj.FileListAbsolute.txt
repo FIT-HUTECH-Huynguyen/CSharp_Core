@@ -1,0 +1,17 @@
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.csproj.AssemblyReference.cache
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.AssemblyInfoInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.AssemblyInfo.cs
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\Crawls_Data.exe
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\Crawls_Data.deps.json
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\Crawls_Data.runtimeconfig.json
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\Crawls_Data.dll
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\Crawls_Data.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\bin\Debug\net7.0\HtmlAgilityPack.dll
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.csproj.CopyComplete
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.dll
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\refint\Crawls_Data.dll
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\Crawls_Data.genruntimeconfig.cache
+P:\Dev\Source\C#\Exercise\OnClass\Crawls_Data\Crawls_Data\obj\Debug\net7.0\ref\Crawls_Data.dll

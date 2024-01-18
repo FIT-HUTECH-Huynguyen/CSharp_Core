@@ -1,0 +1,15 @@
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\Lab_KiemTra.exe.config
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\Lab_KiemTra.exe
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\Lab_KiemTra.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\EntityFramework.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\EntityFramework.SqlServer.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\EntityFramework.xml
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\bin\Debug\EntityFramework.SqlServer.xml
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.csproj.AssemblyReference.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.Properties.Resources.resources
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.csproj.CopyComplete
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.exe
+P:\Dev\Source\C#\Exercise\OnClass\Lab_KiemTra\Lab_KiemTra\obj\Debug\Lab_KiemTra.pdb

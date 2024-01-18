@@ -1,0 +1,16 @@
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\bin\Debug\net6.0-windows\Lab02-04.exe
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\bin\Debug\net6.0-windows\Lab02-04.deps.json
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\bin\Debug\net6.0-windows\Lab02-04.runtimeconfig.json
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\bin\Debug\net6.0-windows\Lab02-04.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\bin\Debug\net6.0-windows\Lab02-04.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02_04.Form1.resources
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.csproj.GenerateResource.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.GeneratedMSBuildEditorConfig.editorconfig
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.AssemblyInfoInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.AssemblyInfo.cs
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.csproj.CoreCompileInputs.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\refint\Lab02-04.dll
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.pdb
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\Lab02-04.genruntimeconfig.cache
+P:\Dev\Source\C#\Exercise\OnClass\Lab02-04\Lab02-04\obj\Debug\net6.0-windows\ref\Lab02-04.dll
