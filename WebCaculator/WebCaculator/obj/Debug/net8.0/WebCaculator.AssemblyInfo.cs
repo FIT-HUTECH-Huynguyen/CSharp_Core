@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebCaculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea85a28bd822b6aadaf9c8fa9bcdab9210f63124")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebCaculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebCaculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

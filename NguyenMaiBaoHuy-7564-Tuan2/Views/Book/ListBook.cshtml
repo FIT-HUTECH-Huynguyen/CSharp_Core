@@ -1,0 +1,60 @@
+﻿@model IEnumerable<NguyenMaiBaoHuy_7564_Tuan2.Models.Book>
+@{
+    ViewBag.Title = "ListBook";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center p-2">@ViewBag.TitlePageName</h2>
+
+<div class="row">
+    @foreach(var item in Model)
+     {
+        <div class=" col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="card">
+                <div class="card card-header d-flex flex-row justify-content-around ">
+                   <h4 class="card-title">@item.Title</h4> 
+                   @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "float-end" })
+                </div>
+                <div class="card-body">
+                    <p>
+                        <strong>
+                            Author:
+                        </strong>@item.Author
+                    </p>
+                    <p>
+                        <strong>
+                            Public Year:
+                        </strong>@item.PublicYear
+                    </p>
+                    <p>
+                        <strong>
+                            Price: 
+                        </strong>@item.Price
+                    </p>
+                    <p>
+                        <img src="@item.Cover" alt="thumnail image"/>
+                    </p>
+                </div>
+                <div class="card card-footer">
+                    <div class="pull-right">
+                        <a href="#" class="btn btn-primary">
+                            Order
+                        </a>
+                        @*@Html.ActionLink("Delete","DeleteBook", new { idBook = item.Id} , new { @class = "btn btn-danger w-25 h-25 "})*@
+                        <button id="btn-delete" class="btn btn-danger w-25 h-25" type="button" onclick="deleteBook('@item.Id')">Delete</button>
+                        @Html.ActionLink("Read more...", "Detail", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                    </div>
+                </div>
+            </div>
+        </div>
+     }
+
+</div>
+<script>
+    function deleteBook(item) {
+        let result = confirm("Are you sure delete book?");
+        if (result) {
+           window.location.href = '@Url.Action("DeleteBook", "Book")/'+item;
+        }
+    }
+</script>
