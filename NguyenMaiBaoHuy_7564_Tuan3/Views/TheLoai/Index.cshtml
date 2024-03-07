@@ -1,0 +1,34 @@
+﻿@model IEnumerable<NguyenMaiBaoHuy_7564_Tuan3.Models.TheLoai>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">Danh Sách Thể Loại</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.tenloai)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.tenloai)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.maloai }) |
+            @Html.ActionLink("Details", "Details", new { id=item.maloai }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.maloai })
+        </td>
+    </tr>
+}
+
+</table>
+<p>
+    @Html.ActionLink("Create New", "Create", "", new { @class = ("btn btn-primary") })
+</p>
