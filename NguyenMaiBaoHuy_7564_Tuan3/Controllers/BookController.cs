@@ -11,9 +11,9 @@ namespace NguyenMaiBaoHuy_7564_Tuan3.Controllers
         // GET: Book
         public ActionResult Index()
         {
-            var all_theloai = from sach in data.Saches select sach;
+            var all_books = from sach in data.Saches select sach;
 
-            return View(all_theloai);
+            return View(all_books);
         }
 
         public ActionResult Details(int id)
